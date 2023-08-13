@@ -1,0 +1,80 @@
+table {
+  border-collapse: separate;
+}
+
+td:not(:empty) {
+  height: 4rem;
+  width: 4rem;
+  border: 1px solid black;
+  position: relative;
+  text-align: center;
+}
+
+td:not(:empty):has(button:focus) {
+  z-index: 999;
+  transform: scale(1.5);
+  border: 2px solid #f00;
+}
+
+td button {
+  all: unset;
+  position: absolute;
+  inset: 0 0 0 0;
+}
+
+.numero {
+  position: absolute;
+  inset: 0 auto auto 2px;
+  font-size: 0.75em;
+}
+
+.simbolo {
+  font-weight: 700;
+  font-size: 1.25em;
+}
+
+.massa {
+  position: absolute;
+  inset: auto 2px 0 auto;
+  font-size: 0.75em;
+}
+
+[data-classe='Metais-alcalinos'] {
+  background: #FF9F4F;
+}
+
+[data-classe='Metais-alcalino-terrosos'] {
+  background: #FFD53F;
+}
+
+[data-classe='Metais-de-transição'] {
+  background: #F1909C;
+}
+
+[data-classe='Lantanídeos'] {
+  background: #FF65D3;
+}
+
+[data-classe='Actinídios'] {
+  background: #E176FF;
+}
+
+[data-classe='Gases-nobres'] {
+  background: #ACACE6;
+}
+
+[data-classe='Semimetais'] {
+  background: #3FC9FF;
+}
+
+[data-classe='Halogênios'] {
+  background: #57FFDD;
+}
+
+[data-classe='Outros-metais'] {
+  background: #7BC576;
+}
+
+[data-classe='Não-metais'] {
+  background: #3AF870;
+}
