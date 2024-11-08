@@ -1,1 +1,64 @@
-<h1>aaaa</h1>
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TABELA PERIÓDICA ASSISTIVA</title>
+    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon" />
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/jquery.slim.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/script_3.js" type="module"></script>
+</head>
+
+<body class="min-vh-100 bg-light d-flex flex-column">
+<header class="mt-3 mx-3 d-flex align-items-center">
+    <img src="img/cta.png" class="img-fluid w-25" alt="Logotipo do Centro Tecnológico de Acessibilidade (CTA)" />
+    <h1 class="flex-fill text-center">TABELA PERIÓDICA ASSISTIVA</h1>
+    <button id="ajuda" type="button" class="w-25 btn btn-outline-dark" data-bs-toggle="modal" data-bs-target="#menuAjuda">Help</button>
+</header>
+<hr />
+<main class="mb-3 flex-grow-1 d-flex align-items-center justify-content-center">
+    <table role="table" aria-rowcount="9" aria-colcount="18"></table>
+</main>
+<div class="modal" id="menuAjuda" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5">Menu de ajuda</h1>
+            </div>
+            <div class="modal-body">
+                <h2 class="fs-5">Controles:</h2>
+                <ul>
+                    <li>Quando não estiver na tabela use a tecla <kbd>T</kbd> ou o atalho <kbd>Shift</kbd> + <kbd>T</kbd> para acessar a tabela.</li>
+                    <li>Use os atalhos <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + as teclas <kbd>&uarr;</kbd>, <kbd>&darr;</kbd>, <kbd>&larr;</kbd> ou <kbd>&rarr;</kbd> para navegar entre as linhas e colunas da tabela.</li>
+                    <li>Use <kbd>Enter</kbd> ou <kbd>Espaço</kbd> para interagir com botões e elementos da tabela.</li>
+                    <li>Se o leitor não estiver navegando corretamente, use os atalhos <kbd>Shift</kbd> + <kbd>,</kbd> ou <kbd>NVDA</kbd> + <kbd>Espaço</kbd> para reposicionar o leitor NVDA.</li>
+                </ul>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal" id="detalharElemento" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5">Detalhes do elemento</h1>
+            </div>
+            <div class="modal-body"></div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+
+</html>

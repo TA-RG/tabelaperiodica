@@ -8,7 +8,8 @@
     "periodo": "1",
     "grupo": ["1", "Família 1A", "Metais Alcalinos"],
     "configuracao": "1s1",
-    "curiosidade": "Encontrado em água (H2O), em estrelas (Sol) e Universo (75% do Universo é composto de hidrogênio)"
+    "curiosidade": "Encontrado em água (H2O), em estrelas (Sol) e Universo (75% do Universo é composto de hidrogênio)",
+    "youtube_video": "TFtme0cvf28"
   },
   "2": {
     "nome": "Hélio",
@@ -19,7 +20,8 @@
     "periodo": "1",
     "grupo": ["18", "Família 8A", "Gases Nobres"],
     "configuracao": "1s2",
-    "curiosidade": "Encontrado em estrelas (Sol), gás natural (em torno de 0,4%) e Universo (23%)"
+    "curiosidade": "Encontrado em estrelas (Sol), gás natural (em torno de 0,4%) e Universo (23%)",
+    "youtube_video": "TFtme0cvf28"
   },
   "3": {
     "nome": "Lítio",
@@ -30,7 +32,8 @@
     "periodo": "2",
     "grupo": ["1", "Família 1A", "Metais Alcalinos"],
     "configuracao": "1s2 2s1",
-    "curiosidade": "Encontrado em pequenas quantidades na comida e na água Utilizado na medicina (eficaz no controle de algumas doenças mentais e alterações de humor) e em baterias"
+    "curiosidade": "Encontrado em pequenas quantidades na comida e na água Utilizado na medicina (eficaz no controle de algumas doenças mentais e alterações de humor) e em baterias",
+    "youtube_video": "TFtme0cvf28"
   },
   "4": {
     "nome": "Berílio",
@@ -41,7 +44,8 @@
     "periodo": "2",
     "grupo": ["2", "Família 2A", "Metais Alcalinoterrosos"],
     "configuracao": "1s2 2s2",
-    "curiosidade": "Usado para aumentar resistência de ligas metálicas Utilizado para produzir molas, relógios giroscópios e reatores nucleares. Esmeralda é um composto químico natural que contém berílio"
+    "curiosidade": "Usado para aumentar resistência de ligas metálicas Utilizado para produzir molas, relógios giroscópios e reatores nucleares. Esmeralda é um composto químico natural que contém berílio",
+    "youtube_video": "TFtme0cvf28"
   },
   "5": {
     "nome": "Boro",
@@ -52,7 +56,8 @@
     "periodo": "2",
     "grupo": ["13", "Família 3A", "Família do Boro"],
     "configuracao": "1s2 2s2 2p1",
-    "curiosidade": "Corpo humano contém, aproximadamente, 0,00007% de Boro Usado para produção de cerâmica e vidros, na agricultura, medicamentos e etc"
+    "curiosidade": "Corpo humano contém, aproximadamente, 0,00007% de Boro Usado para produção de cerâmica e vidros, na agricultura, medicamentos e etc",
+    "youtube_video": "TFtme0cvf28"
   },
   "6": {
     "nome": "Carbono",
@@ -63,7 +68,8 @@
     "periodo": "2",
     "grupo": ["14", "Família 4A", "Família do Carbono"],
     "configuracao": "1s2 2s2 2p2",
-    "curiosidade": "0,5% da massa do Universo 23% da massa de um ser humano. Utilizado na metalurgia para produção de aço Encontra-se na forma de grafite, em gás natural e etc"
+    "curiosidade": "0,5% da massa do Universo 23% da massa de um ser humano. Utilizado na metalurgia para produção de aço Encontra-se na forma de grafite, em gás natural e etc",
+    "youtube_video": "TFtme0cvf28"
   },
   "7": {
     "nome": "Nitrogênio",
@@ -74,7 +80,8 @@
     "periodo": "2",
     "grupo": ["15", "Família 5A", "Família do Nitrogênio"],
     "configuracao": "1s2 2s2 2p3",
-    "curiosidade": "0,1% da massa do Universo 2,6% da massa do ser humano Presente em vários compostos orgânicos"
+    "curiosidade": "0,1% da massa do Universo 2,6% da massa do ser humano Presente em vários compostos orgânicos",
+    "youtube_video": "TFtme0cvf28"
   },
   "8": {
     "nome": "Oxigênio",
@@ -85,7 +92,8 @@
     "periodo": "2",
     "grupo": ["16", "Família 6A", "Calcogênios"],
     "configuracao": "1s2 2s2 2p4",
-    "curiosidade": "1% da massa do Universo 86% da massa do Oceano Encontrando na superfice da Terra e em minerais. Usado em soldagem, cortes de metais, instalações hospitalares para manutenção da vida e etc"
+    "curiosidade": "1% da massa do Universo 86% da massa do Oceano Encontrando na superfice da Terra e em minerais. Usado em soldagem, cortes de metais, instalações hospitalares para manutenção da vida e etc",
+    "youtube_video": "TFtme0cvf28"
   },
   "9": {
     "nome": "Flúor",
@@ -96,7 +104,8 @@
     "periodo": "2",
     "grupo": ["17", "Família 7A", "Halogênios"],
     "configuracao": "1s2 2s2 2p5",
-    "curiosidade": "Encontra-se em minerais (principalmente em criolita, fluorita e fluorapatita). Utilizado no enriquecimento do urânio para usinas nucleares Utilizado em cremes dentais para diminuir a incidência de cáries"
+    "curiosidade": "Encontra-se em minerais (principalmente em criolita, fluorita e fluorapatita). Utilizado no enriquecimento do urânio para usinas nucleares Utilizado em cremes dentais para diminuir a incidência de cáries",
+    "youtube_video": "TFtme0cvf28"
   },
   "10": {
     "nome": "Neônio",
@@ -107,7 +116,8 @@
     "periodo": "2",
     "grupo": ["18", "Família 8A", "Gases Nobres"],
     "configuracao": "1s2 2s2 2p6",
-    "curiosidade": "Usado na frabricação de lâmpadas fluorescentes, lasers, dispositivos de detecção de radiação, tubos de televisão e etc"
+    "curiosidade": "Usado na frabricação de lâmpadas fluorescentes, lasers, dispositivos de detecção de radiação, tubos de televisão e etc",
+    "youtube_video": "TFtme0cvf28"
   },
   "11": {
     "nome": "Sódio",
@@ -118,7 +128,8 @@
     "periodo": "3",
     "grupo": ["1", "Família 1A", "Metais Alcalinos"],
     "configuracao": "1s2 2s2 2p6 3s1",
-    "curiosidade": "Encontra-se em diversos minerais, principalmente no sal comum. Usado na indústria química, na cozinha (sal de cozinha), utilizado como trocador de calor em reatores nucleares"
+    "curiosidade": "Encontra-se em diversos minerais, principalmente no sal comum. Usado na indústria química, na cozinha (sal de cozinha), utilizado como trocador de calor em reatores nucleares",
+    "youtube_video": "TFtme0cvf28"
   },
   "12": {
     "nome": "Magnésio",
@@ -129,7 +140,8 @@
     "periodo": "3",
     "grupo": ["2", "Família 2A", "Metais Alcalinoterrosos"],
     "configuracao": "1s2 2s2 2p6 3s2",
-    "curiosidade": "Encontra-se em minerais como a dolomita, diópsido e etc. Usado em pirotecnia, em rodas por ser leve, em sistemas de tratamento de água e etc"
+    "curiosidade": "Encontra-se em minerais como a dolomita, diópsido e etc. Usado em pirotecnia, em rodas por ser leve, em sistemas de tratamento de água e etc",
+    "youtube_video": "TFtme0cvf28"
   },
   "13": {
     "nome": "Alumínio",
@@ -140,7 +152,8 @@
     "periodo": "3",
     "grupo": ["13", "Família 3A", "Família do Boro"],
     "configuracao": "1s2 2s2 2p6 3s2 3p1",
-    "curiosidade": "Normalmente encontrado em minerais (óxidos e silicatos). Utilizado em utensílios de cozinha, latas e etc"
+    "curiosidade": "Normalmente encontrado em minerais (óxidos e silicatos). Utilizado em utensílios de cozinha, latas e etc",
+    "youtube_video": "TFtme0cvf28"
   },
   "14": {
     "nome": "Silício",
@@ -151,7 +164,8 @@
     "periodo": "3",
     "grupo": ["14", "Família 4A", "Família do Carbono"],
     "configuracao": "1s2 2s2 2p6 3s2 3p2",
-    "curiosidade": "Mais de 90% da crosta terrestre é de minerais a base de silicatos. Utilizado em lubrificantes, sílica (dióxido de silício) é o principal ingrediente do vidro"
+    "curiosidade": "Mais de 90% da crosta terrestre é de minerais a base de silicatos. Utilizado em lubrificantes, sílica (dióxido de silício) é o principal ingrediente do vidro",
+    "youtube_video": "TFtme0cvf28"
   },
   "15": {
     "nome": "Fósforo",
@@ -162,7 +176,8 @@
     "periodo": "3",
     "grupo": ["15", "Família 5A", "Família do Nitrogênio"],
     "configuracao": "1s2 2s2 2p6 3s2 3p3",
-    "curiosidade": "Fósforo somente é encontrado em rochas. Utilizado para criar bombas de efeitos morais"
+    "curiosidade": "Fósforo somente é encontrado em rochas. Utilizado para criar bombas de efeitos morais",
+    "youtube_video": "TFtme0cvf28"
   },
   "16": {
     "nome": "Enxofre",
@@ -173,7 +188,8 @@
     "periodo": "3",
     "grupo": ["16", "Família 6A", "Calcogênios"],
     "configuracao": "1s2 2s2 2p6 3s2 3p4",
-    "curiosidade": "Utilizado na fabricação de fósforos, adubos químicos e medicamentos. Vulcões expelem enxofre, dióxido de enxofre e rochar ricas em sílica"
+    "curiosidade": "Utilizado na fabricação de fósforos, adubos químicos e medicamentos. Vulcões expelem enxofre, dióxido de enxofre e rochar ricas em sílica",
+    "youtube_video": "TFtme0cvf28"
   },
   "17": {
     "nome": "Cloro",
@@ -184,7 +200,8 @@
     "periodo": "3",
     "grupo": ["17", "Família 7A", "Halogênios"],
     "configuracao": "1s2 2s2 2p6 3s2 3p5",
-    "curiosidade": "2,9% da composição da água do mar. Utilizador para potabilização da água"
+    "curiosidade": "2,9% da composição da água do mar. Utilizador para potabilização da água",
+    "youtube_video": "TFtme0cvf28"
   },
   "18": {
     "nome": "Argônio",
@@ -195,7 +212,8 @@
     "periodo": "3",
     "grupo": ["18", "Família 8A", "Gases Nobres"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6",
-    "curiosidade": "Gás nobre mais abundante na Terro, cerca de 0,93%. Utilizado em lâmpadas incandescentes, para evitar a corrosão do filamento de tungstênio"
+    "curiosidade": "Gás nobre mais abundante na Terro, cerca de 0,93%. Utilizado em lâmpadas incandescentes, para evitar a corrosão do filamento de tungstênio",
+    "youtube_video": "TFtme0cvf28"
   },
   "19": {
     "nome": "Potássio",
@@ -206,7 +224,8 @@
     "periodo": "4",
     "grupo": ["1", "Família 1A", "Metais Alcalinos"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s1",
-    "curiosidade": "Falta de potássio no corpo pode causar distúrbios neuromusculares, aumento da pressão arterial e etc. Usado em células fotoelétricas, criação de pólvora (KNO3), fertilizante e etc"
+    "curiosidade": "Falta de potássio no corpo pode causar distúrbios neuromusculares, aumento da pressão arterial e etc. Usado em células fotoelétricas, criação de pólvora (KNO3), fertilizante e etc",
+    "youtube_video": "TFtme0cvf28"
   },
   "20": {
     "nome": "Cálcio",
@@ -217,7 +236,8 @@
     "periodo": "4",
     "grupo": ["2", "Família 2A", "Metais Alcalinoterrosos"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2",
-    "curiosidade": "Mineral de extrema importância para preservar a saúde dos ossos. Obtido de vegetais, leite e derivados"
+    "curiosidade": "Mineral de extrema importância para preservar a saúde dos ossos. Obtido de vegetais, leite e derivados",
+    "youtube_video": "TFtme0cvf28"
   },
   "21": {
     "nome": "Escândio",
@@ -228,7 +248,8 @@
     "periodo": "4",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d1",
-    "curiosidade": "Seu sal iodeto de escândio é utilizado parar fornecer às lâmpadas de vapor de mercúrio uma luminosidade semelhante à encontrada na luz solar"
+    "curiosidade": "Seu sal iodeto de escândio é utilizado parar fornecer às lâmpadas de vapor de mercúrio uma luminosidade semelhante à encontrada na luz solar",
+    "youtube_video": "TFtme0cvf28"
   },
   "22": {
     "nome": "Titânio",
@@ -239,7 +260,8 @@
     "periodo": "4",
     "grupo": ["4", "Família 4B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d2",
-    "curiosidade": "Utilizado em próteses e implantes por ser uma metal extremamente leve e possuir alta resistência mecânica"
+    "curiosidade": "Utilizado em próteses e implantes por ser uma metal extremamente leve e possuir alta resistência mecânica",
+    "youtube_video": "TFtme0cvf28"
   },
   "23": {
     "nome": "Vanádio",
@@ -250,7 +272,8 @@
     "periodo": "4",
     "grupo": ["5", "Família 5B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d3",
-    "curiosidade": "80% do vanádio produzido é empregado como ferrovanádio ou como aditivo em aço. Utilizado para produção de aços inoxidáveis para intrumentos cirúgicos e ferramentas"
+    "curiosidade": "80% do vanádio produzido é empregado como ferrovanádio ou como aditivo em aço. Utilizado para produção de aços inoxidáveis para intrumentos cirúgicos e ferramentas",
+    "youtube_video": "TFtme0cvf28"
   },
   "24": {
     "nome": "Crômio",
@@ -261,7 +284,8 @@
     "periodo": "4",
     "grupo": ["6", "Família 6B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s1 3d5",
-    "curiosidade": "Utilizado na metarlugia parar aumentar a resistência à corrosão e dar um acabamento brilhante"
+    "curiosidade": "Utilizado na metarlugia parar aumentar a resistência à corrosão e dar um acabamento brilhante",
+    "youtube_video": "TFtme0cvf28"
   },
   "25": {
     "nome": "Manganês",
@@ -272,7 +296,8 @@
     "periodo": "4",
     "grupo": ["7", "Família 7B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 d5",
-    "curiosidade": "Quando é inalado ou consumido pelas vias orais em sua forma pode afetar e causar males ao sistema nervoso, respiratório, circulatório e etc"
+    "curiosidade": "Quando é inalado ou consumido pelas vias orais em sua forma pode afetar e causar males ao sistema nervoso, respiratório, circulatório e etc",
+    "youtube_video": "TFtme0cvf28"
   },
   "26": {
     "nome": "Ferro",
@@ -283,7 +308,8 @@
     "periodo": "4",
     "grupo": ["8", "Família 8B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d6",
-    "curiosidade": "A falta de ferro no organismo causa anemia. Alimentos são ricos em ferro, um deles é carne de peixe"
+    "curiosidade": "A falta de ferro no organismo causa anemia. Alimentos são ricos em ferro, um deles é carne de peixe",
+    "youtube_video": "TFtme0cvf28"
   },
   "27": {
     "nome": "Cobalto",
@@ -294,7 +320,8 @@
     "periodo": "4",
     "grupo": ["9", "Família 8B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d7",
-    "curiosidade": "Importante para o organismo humano, fazendo parte da composição da vitamina B12"
+    "curiosidade": "Importante para o organismo humano, fazendo parte da composição da vitamina B12",
+    "youtube_video": "TFtme0cvf28"
   },
   "28": {
     "nome": "Níquel",
@@ -305,7 +332,8 @@
     "periodo": "4",
     "grupo": ["10", "Família 8B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d8",
-    "curiosidade": "Material de grande resistência mecânica à corrosão e à oxidação. Bastante usa para produção de protetores de peças metálicas"
+    "curiosidade": "Material de grande resistência mecânica à corrosão e à oxidação. Bastante usa para produção de protetores de peças metálicas",
+    "youtube_video": "TFtme0cvf28"
   },
   "29": {
     "nome": "Cobre",
@@ -316,7 +344,8 @@
     "periodo": "4",
     "grupo": ["11", "Família 1B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s1 3d10",
-    "curiosidade": "Utilizado em equipamentos elétricos, como cabos e motores. Também utilizado como moeda"
+    "curiosidade": "Utilizado em equipamentos elétricos, como cabos e motores. Também utilizado como moeda",
+    "youtube_video": "TFtme0cvf28"
   },
   "30": {
     "nome": "Zinco",
@@ -327,7 +356,8 @@
     "periodo": "4",
     "grupo": ["12", "Família 2B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10",
-    "curiosidade": "Utilizado para fabricar baterias secas, no processo de galvanização do aço e no preparo de ligas, como latão, por exemplo"
+    "curiosidade": "Utilizado para fabricar baterias secas, no processo de galvanização do aço e no preparo de ligas, como latão, por exemplo",
+    "youtube_video": "TFtme0cvf28"
   },
   "31": {
     "nome": "Gálio",
@@ -338,7 +368,8 @@
     "periodo": "4",
     "grupo": ["13", "Família 3A", "Família do Boro"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p1",
-    "curiosidade": "Utilizado na construção de espelhos por seu aspecto prateado brilhando e capacidade de impregnar superfícies de vidro e porcelana"
+    "curiosidade": "Utilizado na construção de espelhos por seu aspecto prateado brilhando e capacidade de impregnar superfícies de vidro e porcelana",
+    "youtube_video": "TFtme0cvf28"
   },
   "32": {
     "nome": "Germânio",
@@ -349,7 +380,8 @@
     "periodo": "4",
     "grupo": ["14", "Família 4A", "Família do Carbono"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p2",
-    "curiosidade": "Utilizado para endurecer o alumínio, magnésio e estanho. Óptica de infravermelhos: espectrscópios, sistemas de visão noturna e etc"
+    "curiosidade": "Utilizado para endurecer o alumínio, magnésio e estanho. Óptica de infravermelhos: espectrscópios, sistemas de visão noturna e etc",
+    "youtube_video": "TFtme0cvf28"
   },
   "33": {
     "nome": "Arsênio",
@@ -360,7 +392,8 @@
     "periodo": "4",
     "grupo": ["15", "Família 5A", "Família do Nitrogênio"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p3",
-    "curiosidade": "Usado como conservante de couro e madeira (arseniato de cobre e crômio)"
+    "curiosidade": "Usado como conservante de couro e madeira (arseniato de cobre e crômio)",
+    "youtube_video": "TFtme0cvf28"
   },
   "34": {
     "nome": "Selênio",
@@ -371,7 +404,8 @@
     "periodo": "4",
     "grupo": ["16", "Família 6A", "Calcogênios"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p4",
-    "curiosidade": "Atua no sistema imunológico e previne diversas doenças (anemia, infertilidade, envelhecimento precoce e etc.)"
+    "curiosidade": "Atua no sistema imunológico e previne diversas doenças (anemia, infertilidade, envelhecimento precoce e etc.)",
+    "youtube_video": "TFtme0cvf28"
   },
   "35": {
     "nome": "Bromo",
@@ -382,7 +416,8 @@
     "periodo": "4",
     "grupo": ["17", "Família 7A", "Halogênios"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p5",
-    "curiosidade": "Bromo é o único não-metal que forma uma substância simples líquida nas condições ambientes"
+    "curiosidade": "Bromo é o único não-metal que forma uma substância simples líquida nas condições ambientes",
+    "youtube_video": "TFtme0cvf28"
   },
   "36": {
     "nome": "Criptônio",
@@ -393,7 +428,8 @@
     "periodo": "4",
     "grupo": ["18", "Família 8A", "Gases Nobres"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6",
-    "curiosidade": "Usado para detectar vazamentos em recipientes selados e em pesquisas de propulsão de artefatos espaciais"
+    "curiosidade": "Usado para detectar vazamentos em recipientes selados e em pesquisas de propulsão de artefatos espaciais",
+    "youtube_video": "TFtme0cvf28"
   },
   "37": {
     "nome": "Rubídio",
@@ -404,7 +440,8 @@
     "periodo": "5",
     "grupo": ["1", "Família 1A", "Metais Alcalinos"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1",
-    "curiosidade": "Pode ser usado na produção de vidros especiais e em óculos. O potencial de suas aplicações ainda é fonte de estudo"
+    "curiosidade": "Pode ser usado na produção de vidros especiais e em óculos. O potencial de suas aplicações ainda é fonte de estudo",
+    "youtube_video": "TFtme0cvf28"
   },
   "38": {
     "nome": "Estrôncio",
@@ -415,7 +452,8 @@
     "periodo": "5",
     "grupo": ["2", "Família 2A", "Metais Alcalinoterrosos"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2",
-    "curiosidade": "Sua principal aplicação é na produção de cristais para cinescópios de televisores coloridos. É também utilizado para produzir ímãs de ferrita e na composição de ligas metálicas"
+    "curiosidade": "Sua principal aplicação é na produção de cristais para cinescópios de televisores coloridos. É também utilizado para produzir ímãs de ferrita e na composição de ligas metálicas",
+    "youtube_video": "TFtme0cvf28"
   },
   "39": {
     "nome": "Ítrio",
@@ -426,7 +464,8 @@
     "periodo": "5",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d1",
-    "curiosidade": "O ítrio é usado na indústria metalúrgica para aumentar a resistência de ligas de alumínio e magnésio e para produzir ferro fundido nodular"
+    "curiosidade": "O ítrio é usado na indústria metalúrgica para aumentar a resistência de ligas de alumínio e magnésio e para produzir ferro fundido nodular",
+    "youtube_video": "TFtme0cvf28"
   },
   "40": {
     "nome": "Zircônio",
@@ -437,7 +476,8 @@
     "periodo": "5",
     "grupo": ["4", "Família 4B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d2",
-    "curiosidade": "Por ser muito resistente à corrosão por ácidos e pela água do mar, o zircônio é usado na indústria química em anticorrosivos e para remover oxigênio de válvulas eletrônicas"
+    "curiosidade": "Por ser muito resistente à corrosão por ácidos e pela água do mar, o zircônio é usado na indústria química em anticorrosivos e para remover oxigênio de válvulas eletrônicas",
+    "youtube_video": "TFtme0cvf28"
   },
   "41": {
     "nome": "Nióbio",
@@ -448,7 +488,8 @@
     "periodo": "5",
     "grupo": ["5", "Família 5B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1 4d4",
-    "curiosidade": "O nióbio é essencial para a indústria aeroespacial. O Brasil é o maior produtor mundial desse metal"
+    "curiosidade": "O nióbio é essencial para a indústria aeroespacial. O Brasil é o maior produtor mundial desse metal",
+    "youtube_video": "TFtme0cvf28"
   },
   "42": {
     "nome": "Molibdênio",
@@ -459,7 +500,8 @@
     "periodo": "5",
     "grupo": ["6", "Família 6B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1 4d5",
-    "curiosidade": "Usado principalmente em ligas metálicas, ferrosas e não- -ferrosas, como, por exemplo, em aços, por causa de sua resistência à corrosão"
+    "curiosidade": "Usado principalmente em ligas metálicas, ferrosas e não- -ferrosas, como, por exemplo, em aços, por causa de sua resistência à corrosão",
+    "youtube_video": "TFtme0cvf28"
   },
   "43": {
     "nome": "Tecnécio",
@@ -470,7 +512,8 @@
     "periodo": "5",
     "grupo": ["7", "Família 7B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d5",
-    "curiosidade": "O tecnécio foi o primeiro elemento produzido artificialmente"
+    "curiosidade": "O tecnécio foi o primeiro elemento produzido artificialmente",
+    "youtube_video": "TFtme0cvf28"
   },
   "44": {
     "nome": "Rutênio",
@@ -481,7 +524,8 @@
     "periodo": "5",
     "grupo": ["8", "Família 8B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1 4d7",
-    "curiosidade": "Radiação para tratamento dos olhos e em resistência elétrica"
+    "curiosidade": "Radiação para tratamento dos olhos e em resistência elétrica",
+    "youtube_video": "TFtme0cvf28"
   },
   "45": {
     "nome": "Ródio",
@@ -492,7 +536,8 @@
     "periodo": "5",
     "grupo": ["9", "Família 8B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1 4d8",
-    "curiosidade": "Este metal encontra uso para a produção de joias e objetos de decoração"
+    "curiosidade": "Este metal encontra uso para a produção de joias e objetos de decoração",
+    "youtube_video": "TFtme0cvf28"
   },
   "46": {
     "nome": "Paládio",
@@ -503,7 +548,8 @@
     "periodo": "5",
     "grupo": ["10", "Família 8B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s0 4d10",
-    "curiosidade": " O paládio é importante na catálise de fracções de petróleo destilado"
+    "curiosidade": " O paládio é importante na catálise de fracções de petróleo destilado",
+    "youtube_video": "TFtme0cvf28"
   },
   "47": {
     "nome": "Prata",
@@ -514,7 +560,8 @@
     "periodo": "5",
     "grupo": ["11", "Família 1B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1 4d10",
-    "curiosidade": "Utilizada como agente anti-irritante das membranas dos olhos, ouvido, nariz e garganta"
+    "curiosidade": "Utilizada como agente anti-irritante das membranas dos olhos, ouvido, nariz e garganta",
+    "youtube_video": "TFtme0cvf28"
   },
   "48": {
     "nome": "Cádmio",
@@ -525,7 +572,8 @@
     "periodo": "5",
     "grupo": ["12", "Família 2B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10",
-    "curiosidade": "O metal cádmio já foi usado como amálgama por dentistas, atualmente tem aplicação em baterias de celulares e em pilhas recarregáveis"
+    "curiosidade": "O metal cádmio já foi usado como amálgama por dentistas, atualmente tem aplicação em baterias de celulares e em pilhas recarregáveis",
+    "youtube_video": "TFtme0cvf28"
   },
   "49": {
     "nome": "Índio",
@@ -536,7 +584,8 @@
     "periodo": "5",
     "grupo": ["13", "Família 3A", "Família do Boro"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p1",
-    "curiosidade": "Devido a sua dureza, e sua toxicidade extremamente baixa, é possivel morder e mastigar-lo em sua forma metálica"
+    "curiosidade": "Devido a sua dureza, e sua toxicidade extremamente baixa, é possível morder e mastigar-lo em sua forma metálica",
+    "youtube_video": "TFtme0cvf28"
   },
   "50": {
     "nome": "Estanho",
@@ -547,7 +596,8 @@
     "periodo": "5",
     "grupo": ["14", "Família 4A", "Família do Carbono"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p2",
-    "curiosidade": "O estanho é usado para produzir diversas ligas metálicas utilizadas para recobrir outros metais e protegê-los da corrosão"
+    "curiosidade": "O estanho é usado para produzir diversas ligas metálicas utilizadas para recobrir outros metais e protegê-los da corrosão",
+    "youtube_video": "TFtme0cvf28"
   },
   "51": {
     "nome": "Antimônio",
@@ -558,7 +608,8 @@
     "periodo": "5",
     "grupo": ["15", "Família 5A", "Família do Nitrogênio"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p3",
-    "curiosidade": "Desde a Antigüidade o Antimônio é usado para fazer finas peças moldadas, como por exemplo, em ligas para sinos"
+    "curiosidade": "Desde a Antigüidade o Antimônio é usado para fazer finas peças moldadas, como por exemplo, em ligas para sinos",
+    "youtube_video": "TFtme0cvf28"
   },
   "52": {
     "nome": "Telúrio",
@@ -569,7 +620,8 @@
     "periodo": "5",
     "grupo": ["16", "Família 6A", "Calcogênios"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p4",
-    "curiosidade": "O telúrio é usado na vulcanização de borracha ( pneus de carros etc), e também como proteção para chumbo de acumuladores"
+    "curiosidade": "O telúrio é usado na vulcanização de borracha (pneus de carros etc), e também como proteção para chumbo de acumuladores",
+    "youtube_video": "TFtme0cvf28"
   },
   "53": {
     "nome": "Íodo",
@@ -580,7 +632,8 @@
     "periodo": "5",
     "grupo": ["17", "Família 7A", "Halogênios"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p5",
-    "curiosidade": "Quando está na forma de iodeto de potássio pode ser utilizado em fotografias e também em lâmpadas de tungstênio, na forma pura, para aumentar a sua vida útil"
+    "curiosidade": "Quando está na forma de iodeto de potássio pode ser utilizado em fotografias e também em lâmpadas de tungstênio, na forma pura, para aumentar a sua vida útil",
+    "youtube_video": "TFtme0cvf28"
   },
   "54": {
     "nome": "Xenônio",
@@ -591,7 +644,8 @@
     "periodo": "5",
     "grupo": ["18", "Família 8A", "Gases Nobres"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6",
-    "curiosidade": "Mais utilizado em tubos de descargas (tubo de gás néon) onde é produzida uma cor azul esverdeada. Desta forma, o gás torna-se um dispositivo emissor de luz usado em tubos eletrônicos e em lâmpadas ultravioletas (para bronzeamento artificial)"
+    "curiosidade": "Mais utilizado em tubos de descargas (tubo de gás néon) onde é produzida uma cor azul esverdeada. Desta forma, o gás torna-se um dispositivo emissor de luz usado em tubos eletrônicos e em lâmpadas ultravioletas (para bronzeamento artificial)",
+    "youtube_video": "TFtme0cvf28"
   },
   "55": {
     "nome": "Césio",
@@ -602,7 +656,8 @@
     "periodo": "6",
     "grupo": ["1", "Família 1A", "Metais Alcalinos"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s1",
-    "curiosidade": "O Césio é dos únicos cinco metais elementares que se podem encontrar em estado líquido a temperatura ambiente"
+    "curiosidade": "O Césio é dos únicos cinco metais elementares que se podem encontrar em estado líquido a temperatura ambiente",
+    "youtube_video": "TFtme0cvf28"
   },
   "56": {
     "nome": "Bário",
@@ -613,7 +668,8 @@
     "periodo": "6",
     "grupo": ["2", "Família 2A", "Metais Alcalinoterrosos"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2",
-    "curiosidade": "Os compostos de bário são usados em pequenas quantidades para a produção de tintas e vidros, e também em foguetes pirotécnicos"
+    "curiosidade": "Os compostos de bário são usados em pequenas quantidades para a produção de tintas e vidros, e também em foguetes pirotécnicos",
+    "youtube_video": "TFtme0cvf28"
   },
   "57": {
     "nome": "Lantânio",
@@ -624,7 +680,8 @@
     "periodo": "6",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f0 5d1",
-    "curiosidade": "O metal é pirofórico, isto é, entra em ignição espontaneamente no ar, e por isso é usado em ligas visando emissão de faíscas. O principal uso do lantânio é como catalisador no craqueamento de petróleo"
+    "curiosidade": "O metal é pirofórico, isto é, entra em ignição espontaneamente no ar, e por isso é usado em ligas visando emissão de faíscas. O principal uso do lantânio é como catalisador no craqueamento de petróleo",
+    "youtube_video": "TFtme0cvf28"
   },
   "58": {
     "nome": "Cério",
@@ -635,7 +692,8 @@
     "periodo": "6",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f1 5d1",
-    "curiosidade": "Estudos revelam que óxidos de Cério podem diminuir em até 80 % a emissão de gases de motores a combustão, tudo funciona quando se adiciona um volume de Cério ao combustível, este catalisa a queima dos gases poluentes, ou seja, acelera a combustão para não aparecer a fuligem, que é a principal responsável pela poluição atmosférica"
+    "curiosidade": "Estudos revelam que óxidos de Cério podem diminuir em até 80% a emissão de gases de motores a combustão, tudo funciona quando se adiciona um volume de Cério ao combustível, este catalisa a queima dos gases poluentes, ou seja, acelera a combustão para não aparecer a fuligem, que é a principal responsável pela poluição atmosférica",
+    "youtube_video": "TFtme0cvf28"
   },
   "59": {
     "nome": "Praseodímio",
@@ -646,7 +704,8 @@
     "periodo": "6",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f3 5d0",
-    "curiosidade": "Sais de praseodímio são usados para colorir vidros e esmaltes e, se misturados com certos materiais, dão um amarelo forte aos vidros"
+    "curiosidade": "Sais de praseodímio são usados para colorir vidros e esmaltes e, se misturados com certos materiais, dão um amarelo forte aos vidros",
+    "youtube_video": "TFtme0cvf28"
   },
   "60": {
     "nome": "Neodímio",
@@ -657,7 +716,8 @@
     "periodo": "6",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f4 5d0",
-    "curiosidade": "O neodímio é usado em imãs permanentes, do tipo Nd2Fe14B (íman de neodímio), muito poderosos"
+    "curiosidade": "O neodímio é usado em imãs permanentes, do tipo Nd2Fe14B (íman de neodímio), muito poderosos",
+    "youtube_video": "TFtme0cvf28"
   },
   "61": {
     "nome": "Promécio",
@@ -668,7 +728,8 @@
     "periodo": "6",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f5 5d0",
-    "curiosidade": "As pesquisas que tem o intuito de encontrar o metal na crosta terrestre, não e tem sido satisfatórias, e concluiu-se que este elemento está completamente ausente na superfície terrestre, sendo somente obtido através de sínteses laboratoriais"
+    "curiosidade": "As pesquisas que têm o intuito de encontrar o metal na crosta terrestre não têm sido satisfatórias, e concluiu-se que este elemento está completamente ausente na superfície terrestre, sendo somente obtido através de sínteses laboratoriais",
+    "youtube_video": "TFtme0cvf28"
   },
   "62": {
     "nome": "Samário",
@@ -679,7 +740,8 @@
     "periodo": "6",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f6 5d0",
-    "curiosidade": "Juntamente com outros terras-raras e carbono forma ligas utilizadas na indústria de equipamentos cinematográficos, para fabricar o arco de carbono. Além de utilizado na fabricação de revestimento absorvedor de nêutrons em reatores nucleares"
+    "curiosidade": "Juntamente com outros terras-raras e carbono, forma ligas utilizadas na indústria de equipamentos cinematográficos, para fabricar o arco de carbono. Além de utilizado na fabricação de revestimento absorvedor de nêutrons em reatores nucleares",
+    "youtube_video": "TFtme0cvf28"
   },
   "63": {
     "nome": "Európio",
@@ -690,7 +752,8 @@
     "periodo": "6",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f7 5d0",
-    "curiosidade": "O Európio é utilizado em alguns reatores nucleares como absorvedor de nêutrons"
+    "curiosidade": "O Európio é utilizado em alguns reatores nucleares como absorvedor de nêutrons",
+    "youtube_video": "TFtme0cvf28"
   },
   "64": {
     "nome": "Gadolínio",
@@ -701,7 +764,8 @@
     "periodo": "6",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f7 5d1",
-    "curiosidade": "O sulfato de gadolínio é utilizado na fabricação de amplificadores de som, CDs e memórias de computador"
+    "curiosidade": "O sulfato de gadolínio é utilizado na fabricação de amplificadores de som, CDs e memórias de computador",
+    "youtube_video": "TFtme0cvf28"
   },
   "65": {
     "nome": "Térbio",
@@ -712,7 +776,8 @@
     "periodo": "6",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f9 5d0",
-    "curiosidade": "Térbio é utilizado para melhorar a segurança de raios-X médicos, permitindo que a mesma qualidade de imagem a ser produzida com um tempo de exposição muito mais curto"
+    "curiosidade": "Térbio é utilizado para melhorar a segurança de raios-X médicos, permitindo que a mesma qualidade de imagem seja produzida com um tempo de exposição muito mais curto",
+    "youtube_video": "TFtme0cvf28"
   },
   "66": {
     "nome": "Disprósio",
@@ -723,7 +788,8 @@
     "periodo": "6",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f10 5d0",
-    "curiosidade": "O disprósio é usado, em conjunto com o vanádio e outros elementos, como componente de materiais para lasers"
+    "curiosidade": "O disprósio é usado, em conjunto com o vanádio e outros elementos, como componente de materiais para lasers",
+    "youtube_video": "TFtme0cvf28"
   },
   "67": {
     "nome": "Hólmio",
@@ -734,7 +800,8 @@
     "periodo": "6",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f11 5d0",
-    "curiosidade": "Por causa de suas propriedades magnéticas incomuns, o hólmio foi usado para criar o mais forte campo magnético artificial gerado"
+    "curiosidade": "Por causa de suas propriedades magnéticas incomuns, o hólmio foi usado para criar o mais forte campo magnético artificial gerado",
+    "youtube_video": "TFtme0cvf28"
   },
   "68": {
     "nome": "Erbio",
@@ -745,7 +812,8 @@
     "periodo": "6",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f12 5d0",
-    "curiosidade": "O óxido de érbio apresenta uma coloração rosada , por isso, é usado para tingir vidros e em esmalte para porcelanas . Esse vidro é usado, então, para produzir óculos de sol e jóias baratas"
+    "curiosidade": "O óxido de érbio apresenta uma coloração rosada , por isso, é usado para tingir vidros e em esmalte para porcelanas. Esse vidro é usado, então, para produzir óculos de sol e jóias baratas",
+    "youtube_video": "TFtme0cvf28"
   },
   "69": {
     "nome": "Túlio",
@@ -756,7 +824,8 @@
     "periodo": "6",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f13 5d0",
-    "curiosidade": "Túlio é utilizado produção dos raios-X portáteis sendo útil em consultórios odontológicos e médicos"
+    "curiosidade": "Túlio é utilizado na produção de raios-X portáteis, sendo útil em consultórios odontológicos e médicos",
+    "youtube_video": "TFtme0cvf28"
   },
   "70": {
     "nome": "Itérbio",
@@ -767,7 +836,8 @@
     "periodo": "6",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d0",
-    "curiosidade": "Seu metal pode ser usado para melhorar o refinamento dos grânulos, a resistência e outras propriedades mecânicas do aço inoxidável"
+    "curiosidade": "Seu metal pode ser usado para melhorar o refinamento dos grânulos, a resistência e outras propriedades mecânicas do aço inoxidável",
+    "youtube_video": "TFtme0cvf28"
   },
   "71": {
     "nome": "Lutécio",
@@ -778,7 +848,8 @@
     "periodo": "6",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d1",
-    "curiosidade": "O Lutécio é utilizado na produção de ligas metálicas, catalisadores de reações químicas e como fonte de radiação beta, quando seu núcleo é ativado por nêutrons térmicos"
+    "curiosidade": "O Lutécio é utilizado na produção de ligas metálicas, catalisadores de reações químicas e como fonte de radiação beta, quando seu núcleo é ativado por nêutrons térmicos",
+    "youtube_video": "TFtme0cvf28"
   },
   "72": {
     "nome": "Háfnio",
@@ -789,7 +860,8 @@
     "periodo": "6",
     "grupo": ["4", "Família 4B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d2",
-    "curiosidade": "Háfnio é um bom absorvente de neutrons e é utilizado para fazer barras de controle, tais como aqueles encontrados em submarinos nucleares"
+    "curiosidade": "Háfnio é um bom absorvente de neutrons e é utilizado para fazer barras de controle, tais como aqueles encontrados em submarinos nucleares",
+    "youtube_video": "TFtme0cvf28"
   },
   "73": {
     "nome": "Tântalo",
@@ -800,7 +872,8 @@
     "periodo": "6",
     "grupo": ["5", "Família 5B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d3",
-    "curiosidade": "Por ser não-irritante e totalmente imune à ação dos fluidos corporais, é usado extensivamente para produzir equipamentos e implantes cirúrgicos em medicina e odontologia"
+    "curiosidade": "Por ser não-irritante e totalmente imune à ação dos fluidos corporais, é usado extensivamente para produzir equipamentos e implantes cirúrgicos em medicina e odontologia",
+    "youtube_video": "TFtme0cvf28"
   },
   "74": {
     "nome": "Tungstênio",
@@ -811,7 +884,8 @@
     "periodo": "6",
     "grupo": ["6", "Família 6B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d4",
-    "curiosidade": "O tungstênio tem o ponto mais alto de todos os metais de fusão e é misturado com outros metais para fortalecê-los"
+    "curiosidade": "O tungstênio tem o ponto mais alto de todos os metais de fusão e é misturado com outros metais para fortalecê-los",
+    "youtube_video": "TFtme0cvf28"
   },
   "75": {
     "nome": "Rênio",
@@ -822,7 +896,8 @@
     "periodo": "6",
     "grupo": ["7", "Família 7B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d5",
-    "curiosidade": "Catalisadores de rênio-platina são usados para a obtenção de chumbo metálico, gasolina de alta octanagem, e em superligas resistentes a elevadas temperaturas usadas para fabricação de peças de motores de jatos"
+    "curiosidade": "Catalisadores de rênio-platina são usados para a obtenção de chumbo metálico, gasolina de alta octanagem, e em superligas resistentes a elevadas temperaturas usadas para fabricação de peças de motores de jatos",
+    "youtube_video": "TFtme0cvf28"
   },
   "76": {
     "nome": "Ósmio",
@@ -833,7 +908,8 @@
     "periodo": "6",
     "grupo": ["8", "Família 8B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d6",
-    "curiosidade": "Na sua forma metálica o ósmio é muito duro, e o mais denso de todos os elementos. Tem ainda o ponto de fusão mais elevado e a pressão de vapor mais baixa em relação aos outros metais do grupo da platina"
+    "curiosidade": "Na sua forma metálica o ósmio é muito duro, e o mais denso de todos os elementos. Tem ainda o ponto de fusão mais elevado e a pressão de vapor mais baixa em relação aos outros metais do grupo da platina",
+    "youtube_video": "TFtme0cvf28"
   },
   "77": {
     "nome": "Irídio",
@@ -844,7 +920,8 @@
     "periodo": "6",
     "grupo": ["9", "Família 8B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d7",
-    "curiosidade": "O irídio é utilizado na fabricação de agulhas de injeção, em componentes eletrônicos e em ligas com o ósmio, para serem aplicadas em agulhas de bússolas e ponta de caneta tinteiro"
+    "curiosidade": "O irídio é utilizado na fabricação de agulhas de injeção, em componentes eletrônicos e em ligas com o ósmio, para serem aplicadas em agulhas de bússolas e ponta de caneta tinteiro",
+    "youtube_video": "TFtme0cvf28"
   },
   "78": {
     "nome": "Platina",
@@ -855,7 +932,8 @@
     "periodo": "6",
     "grupo": ["10", "Família 8B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s1 4f14 5d9",
-    "curiosidade": "A Platina é muito difícil de ser atacada por ácidos: a água régia (mistura de proporção 1:3 de HNO3 e HCl) é um dos poucos compostos ácidos que conseguem oxidá-la"
+    "curiosidade": "A Platina é muito difícil de ser atacada por ácidos: a água régia (mistura de proporção 1:3 de HNO3 e HCl) é um dos poucos compostos ácidos que conseguem oxidá-la",
+    "youtube_video": "TFtme0cvf28"
   },
   "79": {
     "nome": "Ouro",
@@ -866,7 +944,8 @@
     "periodo": "6",
     "grupo": ["11", "Família 1B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s1 4f14 5d10",
-    "curiosidade": "O ouro é tão flexível que pode ser feito em linha de costura. 28 gramas de ouro pode ser esticado para mais de 80 quilômetros"
+    "curiosidade": "O ouro é tão flexível que pode ser feito em linha de costura. 28 gramas de ouro pode ser esticado para mais de 80 quilômetros",
+    "youtube_video": "TFtme0cvf28"
   },
   "80": {
     "nome": "Mercúrio",
@@ -877,7 +956,8 @@
     "periodo": "6",
     "grupo": ["12", "Família 2B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10",
-    "curiosidade": "O mercúrio metálico ou elementar, no estado de oxidação zero (Hg0) existe na forma líquida à temperatura ambiente, é volátil e liberta um gás monoatómico perigoso: o vapor de mercúrio. Este é estável, podendo permanecer na atmosfera por meses ou até anos"
+    "curiosidade": "O mercúrio metálico ou elementar, no estado de oxidação zero (Hg0) existe na forma líquida à temperatura ambiente, é volátil e liberta um gás monoatômico perigoso: o vapor de mercúrio. Este é estável, podendo permanecer na atmosfera por meses ou até anos",
+    "youtube_video": "TFtme0cvf28"
   },
   "81": {
     "nome": "Tálio",
@@ -888,7 +968,8 @@
     "periodo": "6",
     "grupo": ["13", "Família 3A", "Família do Boro"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p1",
-    "curiosidade": "As aplicações mais comuns são ligadas ao setor de inseticidas e venenos para roedores (hoje, é proibido o uso do sulfato de tálio para tais). "
+    "curiosidade": "As aplicações mais comuns são ligadas ao setor de inseticidas e venenos para roedores (hoje, é proibido o uso do sulfato de tálio para tais)",
+    "youtube_video": "TFtme0cvf28"
   },
   "82": {
     "nome": "Chumbo",
@@ -899,7 +980,8 @@
     "periodo": "6",
     "grupo": ["14", "Família 4A", "Família do Carbono"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p2",
-    "curiosidade": "Por causa das suas características atômicas, inclui-se no grupo dos metais pesados: é bastante nocivo à boa parte dos organismos (dentre eles o humano)"
+    "curiosidade": "Por causa das suas características atômicas, inclui-se no grupo dos metais pesados: é bastante nocivo à boa parte dos organismos (dentre eles o humano)",
+    "youtube_video": "TFtme0cvf28"
   },
   "83": {
     "nome": "Bismuto",
@@ -910,7 +992,8 @@
     "periodo": "6",
     "grupo": ["15", "Família 5A", "Família do Nitrogênio"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p3",
-    "curiosidade": "É o metal mais diamagnético da tabela periódica, ou seja, é repelido por campos magnéticos fortes"
+    "curiosidade": "É o metal mais diamagnético da tabela periódica, ou seja, é repelido por campos magnéticos fortes",
+    "youtube_video": "TFtme0cvf28"
   },
   "84": {
     "nome": "Polônio",
@@ -921,7 +1004,8 @@
     "periodo": "6",
     "grupo": ["16", "Família 6A", "Calcogênios"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p4",
-    "curiosidade": "Pequenas quantidades adicionadas as velas ( eletrodos de ignição de motores de combustão interna ) melhoram o desempenho destes dispositivos"
+    "curiosidade": "Pequenas quantidades adicionadas as velas (eletrodos de ignição de motores de combustão interna) melhoram o desempenho destes dispositivos",
+    "youtube_video": "TFtme0cvf28"
   },
   "85": {
     "nome": "Astato",
@@ -932,7 +1016,8 @@
     "periodo": "6",
     "grupo": ["17", "Família 7A", "Halogênios"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p5",
-    "curiosidade": "O astato é considerado o elemento mais raro já evidenciado (sua concentração média é da ordem 10-20ppm, ou cerca de 1 grama para cada 100 quintilhões de toneladas)"
+    "curiosidade": "O astato é considerado o elemento mais raro já evidenciado (sua concentração média é da ordem 10-20ppm, ou cerca de 1 grama para cada 100 quintilhões de toneladas)",
+    "youtube_video": "TFtme0cvf28"
   },
   "86": {
     "nome": "Radônio",
@@ -943,7 +1028,8 @@
     "periodo": "6",
     "grupo": ["18", "Família 8A", "Gases Nobres"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6",
-    "curiosidade": "É usado no tratamento de câncer, nas chamadas radioterapias e também como componente de cápsulas para aplicação em pacientes com tumores, nesses casos o gás é obtido a partir do elemento químico radioativo Rádio (Ra)"
+    "curiosidade": "É usado no tratamento de câncer, nas chamadas radioterapias e também como componente de cápsulas para aplicação em pacientes com tumores, nesses casos o gás é obtido a partir do elemento químico radioativo Rádio (Ra)",
+    "youtube_video": "TFtme0cvf28"
   },
   "87": {
     "nome": "Frâncio",
@@ -954,7 +1040,8 @@
     "periodo": "7",
     "grupo": ["1", "Família 1A", "Metais Alcalinos"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s1",
-    "curiosidade": "Todos os seus 22 isótopos conhecidos são radioativos e o mais estável é o 223Fr"
+    "curiosidade": "Todos os seus 22 isótopos conhecidos são radioativos e o mais estável é o 223Fr",
+    "youtube_video": "TFtme0cvf28"
   },
   "88": {
     "nome": "Rádio",
@@ -965,7 +1052,8 @@
     "periodo": "7",
     "grupo": ["2", "Família 2A", "Metais Alcalinoterrosos"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2",
-    "curiosidade": "No passado, era utilizado na fabricação de tintas luminescentes para marcadores de relógios e manômetros e na forma do sal cloreto de rádio"
+    "curiosidade": "No passado, era utilizado na fabricação de tintas luminescentes para marcadores de relógios e manômetros e na forma do sal cloreto de rádio",
+    "youtube_video": "TFtme0cvf28"
   },
   "89": {
     "nome": "Actínio",
@@ -976,7 +1064,8 @@
     "periodo": "7",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f0 6d1",
-    "curiosidade": "Raramente é utilizado como fonte de matéria-prima para a indústria, porém, o isótopo Ac-225 é empregado na medicina radioterápica para síntese de bismuto (Bi-213)"
+    "curiosidade": "Raramente é utilizado como fonte de matéria-prima para a indústria, porém, o isótopo Ac-225 é empregado na medicina radioterápica para síntese de bismuto (Bi-213)",
+    "youtube_video": "TFtme0cvf28"
   },
   "90": {
     "nome": "Tório",
@@ -987,7 +1076,8 @@
     "periodo": "7",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f0 6d2",
-    "curiosidade": "O tório apresenta baixa atividade radioativa, ou seja, a emissão de radiação dá-se de forma bem discreta (isso é válido apenas para o isótopo mais estável, Th-232)"
+    "curiosidade": "O tório apresenta baixa atividade radioativa, ou seja, a emissão de radiação dá-se de forma bem discreta (isso é válido apenas para o isótopo mais estável, Th-232)",
+    "youtube_video": "TFtme0cvf28"
   },
   "91": {
     "nome": "Protactínio",
@@ -998,7 +1088,8 @@
     "periodo": "7",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f2 6d1",
-    "curiosidade": "Esse metal está na série de decaimento do urânio e, assim como seu predecessor, é instável. Sendo, então, uma considerável fonte de radiação alfa (núcleos de hélio)"
+    "curiosidade": "Esse metal está na série de decaimento do urânio e, assim como seu predecessor, é instável. Sendo, então, uma considerável fonte de radiação alfa (núcleos de hélio)",
+    "youtube_video": "TFtme0cvf28"
   },
   "92": {
     "nome": "Urânio",
@@ -1009,7 +1100,8 @@
     "periodo": "7",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f3 6d1",
-    "curiosidade": "Este elemento em sua forma natural não apresenta um índice de radiação tão alto, porém seus isótopos sim"
+    "curiosidade": "Este elemento em sua forma natural não apresenta um índice de radiação tão alto, porém seus isótopos sim",
+    "youtube_video": "TFtme0cvf28"
   },
   "93": {
     "nome": "Neptúnio",
@@ -1020,7 +1112,8 @@
     "periodo": "7",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f4 6d1",
-    "curiosidade": "Pode ser usado na composição de equipamentos para a detecção de nêutrons"
+    "curiosidade": "Pode ser usado na composição de equipamentos para a detecção de nêutrons",
+    "youtube_video": "TFtme0cvf28"
   },
   "94": {
     "nome": "Plutônio",
@@ -1031,7 +1124,8 @@
     "periodo": "7",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f6 6d0",
-    "curiosidade": "É usado em reatores e na bomba nuclear, em sondas espaciais e como componente de marca passos cardíacos"
+    "curiosidade": "É usado em reatores e na bomba nuclear, em sondas espaciais e como componente de marca passos cardíacos",
+    "youtube_video": "TFtme0cvf28"
   },
   "95": {
     "nome": "Amerício",
@@ -1042,7 +1136,8 @@
     "periodo": "7",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f7 6d0",
-    "curiosidade": "O amerício é usado em alguns detectores de fumaça contendo minúsculas quantidades de Am-241 como fonte de radiação ionizante"
+    "curiosidade": "O amerício é usado em alguns detectores de fumaça contendo minúsculas quantidades de Am-241 como fonte de radiação ionizante",
+    "youtube_video": "TFtme0cvf28"
   },
   "96": {
     "nome": "Cúrio",
@@ -1053,7 +1148,8 @@
     "periodo": "7",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f7 6d1",
-    "curiosidade": "Pode ser útil em geradores termoelétricos. O cúrio-242 e Cm-244 são utilizados como fontes de energia portátil, já que pode gerar em torno de 2 watts de energia térmica por grama"
+    "curiosidade": "Pode ser útil em geradores termoelétricos. O cúrio-242 e Cm-244 são utilizados como fontes de energia portátil, já que pode gerar em torno de 2 watts de energia térmica por grama",
+    "youtube_video": "TFtme0cvf28"
   },
   "97": {
     "nome": "Berquélio",
@@ -1064,7 +1160,8 @@
     "periodo": "7",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f9 6d0",
-    "curiosidade": "Como outros actinídeos, o berquélio se acumula no tecido ósseo, por isso, deve ser manuseado com cuidado. Este elemento não tem nenhuma aplicação conhecida fora da pesquisa básica, e não apresenta nenhum papel biológico"
+    "curiosidade": "Como outros actinídeos, o berquélio se acumula no tecido ósseo, por isso, deve ser manuseado com cuidado. Este elemento não tem nenhuma aplicação conhecida fora da pesquisa básica, e não apresenta nenhum papel biológico",
+    "youtube_video": "TFtme0cvf28"
   },
   "98": {
     "nome": "Califórnio",
@@ -1075,7 +1172,8 @@
     "periodo": "7",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f10 6d0",
-    "curiosidade": "O seu principal uso é como fonte de nêutrons para a análise do solo terrestre ou de outros planetas através de sondas espaciais. É o metal mais caro que pode ser comprado, custando aproximadamente US$ 25 milhões a grama e só pode ser comprado por uma organização internacional"
+    "curiosidade": "O seu principal uso é como fonte de nêutrons para a análise do solo terrestre ou de outros planetas através de sondas espaciais. É o metal mais caro que pode ser comprado, custando aproximadamente US$ 25 milhões a grama e só pode ser comprado por uma organização internacional",
+    "youtube_video": "TFtme0cvf28"
   },
   "99": {
     "nome": "Einstênio",
@@ -1086,7 +1184,8 @@
     "periodo": "7",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f11 6d0",
-    "curiosidade": "Não são conhecidos usos comerciais deste elemento, ate agora amostras de einstênio só foram utilizados na produção de elementos mais pesados em laboratório"
+    "curiosidade": "Não são conhecidos usos comerciais deste elemento, até agora amostras de einstênio só foram utilizadas na produção de elementos mais pesados em laboratório",
+    "youtube_video": "TFtme0cvf28"
   },
   "100": {
     "nome": "Férmio",
@@ -1097,7 +1196,8 @@
     "periodo": "7",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f12 6d0",
-    "curiosidade": "O férmio foi sintetizado pela primeira vez por uma equipe liderada por Albert Ghiorso em 1952. A equipe encontrou o férmio nos resíduos da explosão teste da primeira bomba de hidrogênio: o Ivy Mike"
+    "curiosidade": "O férmio foi sintetizado pela primeira vez por uma equipe liderada por Albert Ghiorso em 1952. A equipe encontrou o férmio nos resíduos da explosão teste da primeira bomba de hidrogênio: o Ivy Mike",
+    "youtube_video": "TFtme0cvf28"
   },
   "101": {
     "nome": "Mendelévio",
@@ -1108,7 +1208,8 @@
     "periodo": "7",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f13 6d0",
-    "curiosidade": "Pesquisadores demonstraram que o mendelévio tem uma estabilidade moderada quando apresenta estado de oxidação dipositivo ( 2 ) além do estado de oxidação tripositivo ( 3 ) característico dos elementos actinídeos"
+    "curiosidade": "Pesquisadores demonstraram que o mendelévio tem uma estabilidade moderada quando apresenta estado de oxidação dipositivo (2) além do estado de oxidação tripositivo (3) característico dos elementos actinídeos",
+    "youtube_video": "TFtme0cvf28"
   },
   "102": {
     "nome": "Nobélio",
@@ -1119,7 +1220,8 @@
     "periodo": "7",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d0",
-    "curiosidade": "O isótopo mais estável, nobélio-259, tem uma meia-vida de 58 minutos, e decai para o férmio-255 por emissão alfa ou para mendelévio-259 por captura eletrônica"
+    "curiosidade": "O isótopo mais estável, nobélio-259, tem uma meia-vida de 58 minutos, e decai para o férmio-255 por emissão alfa ou para mendelévio-259 por captura eletrônica",
+    "youtube_video": "TFtme0cvf28"
   },
   "103": {
     "nome": "Laurêncio",
@@ -1130,7 +1232,8 @@
     "periodo": "7",
     "grupo": ["3", "Família 3B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d1",
-    "curiosidade": "O laurêncio foi produzido num \"Acelerador Linear de Íons Pesados\" (HILAC), bombardeando-se 3 miligramas de califórnio (3 isótopos diferentes) de com íons de boro (isótopos 10B e 11B"
+    "curiosidade": "O laurêncio foi produzido num 'Acelerador Linear de Íons Pesados' (HILAC), bombardeando-se 3 miligramas de califórnio (3 isótopos diferentes) com íons de boro (isótopos 10B e 11B)",
+    "youtube_video": "TFtme0cvf28"
   },
   "104": {
     "nome": "Rutherfórdio",
@@ -1141,7 +1244,8 @@
     "periodo": "7",
     "grupo": ["4", "Família 4B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d2",
-    "curiosidade": "Este elemento é altamente radioativo, com a maioria dos seus isótopos com meias-vidas abaixo de 70 segundos. "
+    "curiosidade": "Este elemento é altamente radioativo, com a maioria dos seus isótopos com meias-vidas abaixo de 70 segundos",
+    "youtube_video": "TFtme0cvf28"
   },
   "105": {
     "nome": "Dúbnio",
@@ -1152,7 +1256,8 @@
     "periodo": "7",
     "grupo": ["5", "Família 5B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d3",
-    "curiosidade": "Este elemento tem uma elevada estabilidade comparada com a dos seus elementos vizinhos da tabela periódica"
+    "curiosidade": "Este elemento tem uma elevada estabilidade comparada com a dos seus elementos vizinhos da tabela periódica",
+    "youtube_video": "TFtme0cvf28"
   },
   "106": {
     "nome": "Seabórgio",
@@ -1163,7 +1268,8 @@
     "periodo": "7",
     "grupo": ["6", "Família 6B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d4",
-    "curiosidade": "O elemento foi sintetizado, em 1974, por uma equipe soviética em Dubna, e por uma equipe norte-americana em Berkeley. O isótopo mais estável é o 266Sg com uma meia-vida de 21 segundos. Nenhum uso é conhecido fora do âmbito da pesquisa"
+    "curiosidade": "O elemento foi sintetizado, em 1974, por uma equipe soviética em Dubna, e por uma equipe norte-americana em Berkeley. O isótopo mais estável é o 266Sg com uma meia-vida de 21 segundos. Nenhum uso é conhecido fora do âmbito da pesquisa",
+    "youtube_video": "TFtme0cvf28"
   },
   "107": {
     "nome": "Bóhrio",
@@ -1174,7 +1280,8 @@
     "periodo": "7",
     "grupo": ["7", "Família 7B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d5",
-    "curiosidade": "O bóhrio foi sintetizado em 1976 por uma equipe de cientistas soviéticos liderado por Y. Oganessian no \"Joint Institute for Nuclear Research\" de Dubna, Rússia, que produziram o isótopo 261Bh com meia-vida de 1-2 minutos (segundo outras fontes, em torno de 10 minutos)"
+    "curiosidade": "O bóhrio foi sintetizado em 1976 por uma equipe de cientistas soviéticos liderado por Y. Oganessian no 'Joint Institute for Nuclear Research' de Dubna, Rússia, que produziram o isótopo 261Bh com meia-vida de 1-2 minutos (segundo outras fontes, em torno de 10 minutos)",
+    "youtube_video": "TFtme0cvf28"
   },
   "108": {
     "nome": "Hássio",
@@ -1185,7 +1292,8 @@
     "periodo": "7",
     "grupo": ["8", "Família 8B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d6",
-    "curiosidade": "O \"Hs-265\" foi sintetizado incidindo sobre o Pb-208 um feixe de Fe-58 criado no Acelerador Linear Universal (UNIPLAC). Esta síntese foi confirmada posteriormente por pesquisadores russos, em Dubna"
+    "curiosidade": "O 'Hs-265' foi sintetizado incidindo sobre o Pb-208 um feixe de Fe-58 criado no Acelerador Linear Universal (UNIPLAC). Esta síntese foi confirmada posteriormente por pesquisadores russos, em Dubna",
+    "youtube_video": "TFtme0cvf28"
   },
   "109": {
     "nome": "Meitnério",
@@ -1196,7 +1304,8 @@
     "periodo": "7",
     "grupo": ["9", "Família 8B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d7",
-    "curiosidade": "Este é um elemento sintético cujo isótopo mais estável é o Mt-266 com uma meia-vida de 3.4 milissegundos. "
+    "curiosidade": "Este é um elemento sintético cujo isótopo mais estável é o Mt-266 com uma meia-vida de 3.4 milissegundos",
+    "youtube_video": "TFtme0cvf28"
   },
   "110": {
     "nome": "Darmstádio",
@@ -1207,7 +1316,8 @@
     "periodo": "7",
     "grupo": ["10", "Família 8B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d8",
-    "curiosidade": "É produzido por uma reação de colisão entre isótopos deníquel e chumbo e portanto não existe na natureza. Não temnenhuma aplicação prática conhecida a não ser para pesquisas em laboratórios"
+    "curiosidade": "É produzido por uma reação de colisão entre isótopos de níquel e chumbo e, portanto, não existe na natureza. Não tem nenhuma aplicação prática conhecida a não ser para pesquisas em laboratórios",
+    "youtube_video": "TFtme0cvf28"
   },
   "111": {
     "nome": "Roentgênio",
@@ -1218,7 +1328,8 @@
     "periodo": "7",
     "grupo": ["11", "Família 1B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d9",
-    "curiosidade": "O nome do elelento foi dado em homenagem a Wilhelm Conrad Roentgen, físico alemão que descobriu os Raios-X em 1895. Foi descoberto por Hofmann e colaboradores em 1994 em Darmstadt, Alemanha"
+    "curiosidade": "O nome do elemento foi dado em homenagem a Wilhelm Conrad Roentgen, físico alemão que descobriu os Raios-X em 1895. Foi descoberto por Hofmann e colaboradores em 1994 em Darmstadt, Alemanha",
+    "youtube_video": "TFtme0cvf28"
   },
   "112": {
     "nome": "Copernício",
@@ -1229,7 +1340,8 @@
     "periodo": "7",
     "grupo": ["12", "Família 2B", "Elementos de Transição"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d10",
-    "curiosidade": "Inicialmente conhecido como Unúnbio (Ununbium), o elemento químico descoberto em 1996 é o mais pesado da tabela periódica"
+    "curiosidade": "Inicialmente conhecido como Unúnbio (Ununbium), o elemento químico descoberto em 1996 é o mais pesado da tabela periódica",
+    "youtube_video": "TFtme0cvf28"
   },
   "113": {
     "nome": "Nihônio",
@@ -1240,7 +1352,8 @@
     "periodo": "7",
     "grupo": ["13", "Família 3A", "Família do Boro"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d10 7p1",
-    "curiosidade": "Foi Descoberto no início de 2004 por uma equipe de cientistas russos e norte-americanos, é um transurânico, provavelmente um sólido de aspecto prateado"
+    "curiosidade": "Foi Descoberto no início de 2004 por uma equipe de cientistas russos e norte-americanos, é um transurânico, provavelmente um sólido de aspecto prateado",
+    "youtube_video": "TFtme0cvf28"
   },
   "114": {
     "nome": "Fleróvio",
@@ -1251,7 +1364,8 @@
     "periodo": "7",
     "grupo": ["14", "Família 4A", "Família do Carbono"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d2 7p2",
-    "curiosidade": "O fleróvio pode ser obtido em aceleradores de partículas, bombardeando o plutônio-244 com íons de cálcio. Isso só foi feito duas vezes, resultando nos isótopos Fl-289 e Fl-288"
+    "curiosidade": "O fleróvio pode ser obtido em aceleradores de partículas, bombardeando o plutônio-244 com íons de cálcio. Isso só foi feito duas vezes, resultando nos isótopos Fl-289 e Fl-288",
+    "youtube_video": "TFtme0cvf28"
   },
   "115": {
     "nome": "Moscóvio",
@@ -1262,7 +1376,8 @@
     "periodo": "7",
     "grupo": ["15", "Família 5A", "Família do Nitrogênio"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d2 7p3",
-    "curiosidade": "O elemento moscóvio foi sintetizado pela primeira vez em 2003, no Instituto Central de Investigações Nucleares na Rússia. A síntese de elemento foi um trabalho conjunto com cientistas americanos e russos. A síntese se deu através de bombardeamento de um alvo de amerício com feixe de cálcio. O nome moscóvio foi dado em homenagem a Moscou, que foi sintetizado pela primeira vez em Moscou, na Rússia"
+    "curiosidade": "O elemento moscóvio foi sintetizado pela primeira vez em 2003, no Instituto Central de Investigações Nucleares na Rússia. A síntese de elemento foi um trabalho conjunto com cientistas americanos e russos. A síntese se deu através de bombardeamento de um alvo de amerício com feixe de cálcio. O nome moscóvio foi dado em homenagem a Moscou, que foi sintetizado pela primeira vez em Moscou, na Rússia",
+    "youtube_video": "TFtme0cvf28"
   },
   "116": {
     "nome": "Livermório",
@@ -1273,7 +1388,8 @@
     "periodo": "7",
     "grupo": ["16", "Família 6A", "Calcogênios"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d2 7p4",
-    "curiosidade": "Por sua instabilidade, reduzido tempo de meia-vida e dificuldade de coleta, não existem aplicação industriais ou comerciais para este elemento e sua implementação é relegada apenas para pesquisa científica"
+    "curiosidade": "Por sua instabilidade, reduzido tempo de meia-vida e dificuldade de coleta, não existem aplicação industriais ou comerciais para este elemento e sua implementação é relegada apenas para pesquisa científica",
+    "youtube_video": "TFtme0cvf28"
   },
   "117": {
     "nome": "Tenessina",
@@ -1284,7 +1400,8 @@
     "periodo": "7",
     "grupo": ["17", "Família 7A", "Halogênios"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d2 7p5",
-    "curiosidade": "Uma equipe internacional de cientistas da Rússia e dos Estados Unidos descobriu o elemento de número atômico 117 em abril de 2010"
+    "curiosidade": "Uma equipe internacional de cientistas da Rússia e dos Estados Unidos descobriu o elemento de número atômico 117 em abril de 2010",
+    "youtube_video": "TFtme0cvf28"
   },
   "118": {
     "nome": "Oganessônio",
@@ -1295,6 +1412,7 @@
     "periodo": "7",
     "grupo": ["18", "Família 8A", "Gases Nobres"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d2 7p6",
-    "curiosidade": "Foi o primeiro elemento a ser nomeado em homenagem a um cientista que estava vivo durante a escolha de seu nome oficial"
+    "curiosidade": "Foi o primeiro elemento a ser nomeado em homenagem a um cientista que estava vivo durante a escolha de seu nome oficial",
+    "youtube_video": "TFtme0cvf28"
   }
 }
