@@ -3,8 +3,8 @@ table {
 }
 
 td:not(:empty) {
-  height: 3rem;
-  width: 4rem;
+  height: 5rem;
+  width: 6rem;
   border: 1px solid black;
   position: relative;
   text-align: center;
