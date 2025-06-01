@@ -3,7 +3,7 @@ table {
 }
 
 td:not(:empty) {
-  height: 5rem;
+  height: 3rem;
   width: 6rem;
   border: 1px solid black;
   position: relative;

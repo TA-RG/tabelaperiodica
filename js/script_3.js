@@ -30,8 +30,8 @@ function setup(elementos) {
             }
             $('tr').last().append(`
         <td role="cell" aria-colindex="${index}" data-classe="${classe}">
-          <button role="presentation" style="background-size: cover; background-image: url('img/elements/thumbs/${elemento.numero}.png');" data-bs-toggle="modal" data-bs-target="#detalharElemento" data-bs-elemento="${elemento.numero}">
-          </button>
+<!--            <p style="width: 100%; background-color: #0d6efd"  >aaaa</p> -->
+            <button role="presentation" style="background-size: contain; background-image: url('img/elements/thumbs/${elemento.numero}.png');" data-bs-toggle="modal" data-bs-target="#detalharElemento" data-bs-elemento="${elemento.numero}"></button>
         </td>
       `.trim());
         }
