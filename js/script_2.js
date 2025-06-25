@@ -34,7 +34,7 @@ function setup(elementos) {
             <span class="visually-hidden">${elemento.nome}</span>
             <span class="numero" aria-hidden="true"><span class="visually-hidden">Número atômico: </span>${elemento.numero}</span>
             <span class="simbolo"><span class="visually-hidden">Símbolo: </span>${elemento.simbolo}</span>
-            <span class="massa"><span class="visually-hidden">Massa: </span>${elemento.massa}</span>
+            <span class="massa" aria-hidden="true"><span class="visually-hidden">Massa: </span>${elemento.massa}</span>
           </button>
         </td>
       `.trim());
