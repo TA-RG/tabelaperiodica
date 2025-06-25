@@ -30,7 +30,7 @@ function setup(elementos) {
       }
       $('tr').last().append(`
         <td role="cell" aria-colindex="${index}" data-classe="${classe}">
-          <button role="presentation" data-bs-toggle="modal" data-bs-target="#detalharElemento" data-bs-elemento="${elemento.numero}">
+          <button role="presentation" data-bs-toggle="modal" data-bs-target="#detalhesModal" data-bs-elemento="${elemento.numero}">
             <span class="visually-hidden">${elemento.nome}</span>
             <span class="numero"><span class="visually-hidden">Número atômico: </span>${elemento.numero}</span>
             <span class="simbolo"><span class="visually-hidden">Símbolo: </span>${elemento.simbolo}</span>
@@ -54,23 +54,39 @@ function setup(elementos) {
   $('[aria-colindex="3"]').slice(-2)
       .before('<td role="cell" colspan="2" aria-colspan="2"></td>');
 
-  const modal = document.querySelector('#detalharElemento');
-  modal.addEventListener('show.bs.modal', (e) => {
+  const modal = document.querySelector('#detalhesModal');
+  // modal.addEventListener('show.bs.modal', (e) => {
+  modal.addEventListener('shown.bs.modal', (e) => {
     const numero = e.relatedTarget.getAttribute('data-bs-elemento');
     const elemento = elementos[numero];
-    $('#detalharElemento .modal-body').html(`
-      <h2 class="fs-5">${elemento.nome}</h2>
-      <ul aria-label="Descrição">
-        <li>Número atômico: ${elemento.numero}.</li>
-        <li>Símbolo: ${elemento.simbolo}.</li>
-        <li>Massa atômica: ${elemento.massa}.</li>
-        <li>Classificação: ${elemento.classe}.</li>
-        <li>Período: ${elemento.periodo}&#186; período.</li>
-        <li>Grupo: ${elemento.grupo[0]}&#186; grupo.</li>
-        <li>Família: ${elemento.grupo[1]}, ${elemento.grupo[2]}.</li>
-        <li>Configuração eletrônica: ${elemento.configuracao}.</li>
-        <li>Curiosidade: ${elemento.curiosidade}.</li>
-      </ul>
-    `);
+
+    const content = document.getElementById('detalhesDescricao');
+    content.innerHTML = `
+    <h2 class="fs-5">${elemento.nome}</h2>
+    <div aria-live="polite">
+    <ul tabindex="1" role="presentation" lang="pt-BR" >
+      <li>Número atômico: ${elemento.numero}.</li>
+      <li>Símbolo: ${elemento.simbolo}.</li>
+      <li>Massa atômica: ${elemento.massa}.</li>
+      <li>Classificação: ${elemento.classe}.</li>
+      <li>Período: ${elemento.periodo}º período.</li>
+      <li>Grupo: ${elemento.grupo[0]}º grupo.</li>
+      <li>Família: ${elemento.grupo[1]}, ${elemento.grupo[2]}.</li>
+      <li>Configuração eletrônica: ${elemento.configuracao}.</li>
+      <li>Curiosidade: ${elemento.curiosidade}.</li>
+    </ul>
+    </div>
+  `.trim();
+
+    // Acessibilidade: força leitura após conteúdo visível
+    content.setAttribute('tabindex', '-1');
+    content.setAttribute('role', 'document');
+    content.setAttribute('aria-live', 'polite');
+    content.focus();
   });
+}
+
+function test() {
+  document.getElementById('detalhesDescricao').innerHTML = '<p>Ferro: Número atômico 26</p>';
+  document.getElementById('detalhesDescricao').focus();
 }
