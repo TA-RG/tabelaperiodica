@@ -32,7 +32,7 @@ function setup(elementos) {
         <td role="cell" aria-colindex="${index}" data-classe="${classe}">
           <button role="presentation" data-bs-toggle="modal" data-bs-target="#detalhesModal" data-bs-elemento="${elemento.numero}">
             <span class="visually-hidden">${elemento.nome}</span>
-            <span class="numero"><span class="visually-hidden">Número atômico: </span>${elemento.numero}</span>
+            <span class="numero" aria-hidden="true"><span class="visually-hidden">Número atômico: </span>${elemento.numero}</span>
             <span class="simbolo"><span class="visually-hidden">Símbolo: </span>${elemento.simbolo}</span>
             <span class="massa"><span class="visually-hidden">Massa: </span>${elemento.massa}</span>
           </button>
