@@ -6,10 +6,10 @@
     "massa": "1,008",
     "classe": "Não metais",
     "periodo": "1",
-    "grupo": ["1", "Família 1A", "Metais Alcalinos"],
+    "grupo": ["Não pertence a nenhuma família específica, embora seja frequentemente posicionado no topo do grupo 1 (metais alcalinos) devido à sua configuração eletrônica"],
     "configuracao": "1s1",
     "curiosidade": "Encontrado em água (H2O), em estrelas (Sol) e Universo (75% do Universo é composto de hidrogênio)",
-    "youtube_video": "hcCKJ_eHIRY"
+    "youtube_video": "pH04IfWmTyo"
   },
   "2": {
     "nome": "Hélio",
@@ -33,7 +33,7 @@
     "grupo": ["1", "Família 1A", "Metais Alcalinos"],
     "configuracao": "1s2 2s1",
     "curiosidade": "Encontrado em pequenas quantidades na comida e na água Utilizado na medicina (eficaz no controle de algumas doenças mentais e alterações de humor) e em baterias",
-    "youtube_video": "TFtme0cvf28"
+    "youtube_video": "ujgqelxPaD0"
   },
   "4": {
     "nome": "Berílio",
@@ -129,7 +129,7 @@
     "grupo": ["1", "Família 1A", "Metais Alcalinos"],
     "configuracao": "1s2 2s2 2p6 3s1",
     "curiosidade": "Encontra-se em diversos minerais, principalmente no sal comum. Usado na indústria química, na cozinha (sal de cozinha), utilizado como trocador de calor em reatores nucleares",
-    "youtube_video": "TFtme0cvf28"
+    "youtube_video": "TLxr6a181Z4"
   },
   "12": {
     "nome": "Magnésio",
@@ -225,7 +225,7 @@
     "grupo": ["1", "Família 1A", "Metais Alcalinos"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s1",
     "curiosidade": "Falta de potássio no corpo pode causar distúrbios neuromusculares, aumento da pressão arterial e etc. Usado em células fotoelétricas, criação de pólvora (KNO3), fertilizante e etc",
-    "youtube_video": "TFtme0cvf28"
+    "youtube_video": "xcO1iSIDY6A"
   },
   "20": {
     "nome": "Cálcio",
@@ -441,7 +441,7 @@
     "grupo": ["1", "Família 1A", "Metais Alcalinos"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1",
     "curiosidade": "Pode ser usado na produção de vidros especiais e em óculos. O potencial de suas aplicações ainda é fonte de estudo",
-    "youtube_video": "TFtme0cvf28"
+    "youtube_video": "dOQmpka8o_E"
   },
   "38": {
     "nome": "Estrôncio",
@@ -657,7 +657,7 @@
     "grupo": ["1", "Família 1A", "Metais Alcalinos"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s1",
     "curiosidade": "O Césio é dos únicos cinco metais elementares que se podem encontrar em estado líquido a temperatura ambiente",
-    "youtube_video": "TFtme0cvf28"
+    "youtube_video": "gyoTKdEw5Vs"
   },
   "56": {
     "nome": "Bário",
@@ -1041,7 +1041,7 @@
     "grupo": ["1", "Família 1A", "Metais Alcalinos"],
     "configuracao": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s1",
     "curiosidade": "Todos os seus 22 isótopos conhecidos são radioativos e o mais estável é o 223Fr",
-    "youtube_video": "TFtme0cvf28"
+    "youtube_video": "2kQ6Z3Ocats"
   },
   "88": {
     "nome": "Rádio",
