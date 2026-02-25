@@ -24,7 +24,8 @@ function setup(elementos) {
     let aux = 2;
     for (const elemento of tabela[row]) {
       const classe = elemento.classe.replace(/\s/gm, '-');
-      let index = elemento.grupo[0];
+      const groupValue = parseInt(elemento.grupo[0], 10);
+      let index = Number.isFinite(groupValue) ? groupValue : 1;
       if (elemento.classe === 'Lantanídeos' || elemento.classe === 'Actinídios') {
         index = ++aux;
       }
@@ -83,6 +84,116 @@ function setup(elementos) {
     content.setAttribute('role', 'document');
     content.setAttribute('aria-live', 'polite');
     content.focus();
+  });
+
+  const helpModal = document.querySelector('#menuAjuda');
+  if (helpModal) {
+    helpModal.addEventListener('shown.bs.modal', () => {
+      const helpTitle = document.getElementById('menuAjudaTitulo');
+      if (helpTitle) {
+        helpTitle.focus();
+      }
+    });
+  }
+
+  const table = document.querySelector('table');
+  const allButtons = table.querySelectorAll('td button');
+  if (!allButtons.length) {
+    return;
+  }
+
+  const totalRows = 9;
+  const totalCols = 18;
+
+  const setRovingTabIndex = (activeButton) => {
+    allButtons.forEach((btn) => {
+      btn.tabIndex = btn === activeButton ? 0 : -1;
+    });
+  };
+
+  const getButtonAt = (row, col) => {
+    return document.querySelector(
+      `tr[aria-rowindex="${row}"] td[aria-colindex="${col}"] button`
+    );
+  };
+
+  const findNextButton = (startRow, startCol, deltaRow, deltaCol) => {
+    if (!Number.isFinite(startRow) || !Number.isFinite(startCol)) {
+      return null;
+    }
+    let row = startRow;
+    let col = startCol;
+    const maxSteps = totalRows * totalCols;
+    for (let step = 0; step < maxSteps; step += 1) {
+      row += deltaRow;
+      col += deltaCol;
+      if (row < 1 || row > totalRows || col < 1 || col > totalCols) {
+        return null;
+      }
+      const candidate = getButtonAt(row, col);
+      if (candidate) {
+        return candidate;
+      }
+    }
+    return null;
+  };
+
+  const getCellPosition = (button) => {
+    const cell = button.closest('td');
+    if (!cell) {
+      return null;
+    }
+    const row = parseInt(cell.parentElement.getAttribute('aria-rowindex'), 10);
+    const col = parseInt(cell.getAttribute('aria-colindex'), 10);
+    if (!Number.isFinite(row) || !Number.isFinite(col)) {
+      return null;
+    }
+    return { row, col };
+  };
+
+  const hydrogenButton = table.querySelector('button[data-bs-elemento="1"]');
+  const initialButton = hydrogenButton || allButtons[0];
+  setRovingTabIndex(initialButton);
+  initialButton.focus();
+
+  allButtons.forEach((button) => {
+    button.addEventListener('focus', () => {
+      setRovingTabIndex(button);
+    });
+
+    button.addEventListener('keydown', (event) => {
+      const isArrowKey = event.key.startsWith('Arrow');
+      if (!isArrowKey) {
+        return;
+      }
+
+      const allowPlainArrows = !event.ctrlKey && !event.altKey && !event.metaKey;
+      const allowCtrlAltArrows = event.ctrlKey && event.altKey && !event.metaKey;
+      if (!allowPlainArrows && !allowCtrlAltArrows) {
+        return;
+      }
+
+      const position = getCellPosition(button);
+      if (!position) {
+        return;
+      }
+      const { row, col } = position;
+      let nextButton = null;
+      if (event.key === 'ArrowLeft') {
+        nextButton = findNextButton(row, col, 0, -1);
+      } else if (event.key === 'ArrowRight') {
+        nextButton = findNextButton(row, col, 0, 1);
+      } else if (event.key === 'ArrowUp') {
+        nextButton = findNextButton(row, col, -1, 0);
+      } else if (event.key === 'ArrowDown') {
+        nextButton = findNextButton(row, col, 1, 0);
+      }
+
+      if (nextButton) {
+        event.preventDefault();
+        nextButton.focus();
+      }
+    });
   });
 }
 
